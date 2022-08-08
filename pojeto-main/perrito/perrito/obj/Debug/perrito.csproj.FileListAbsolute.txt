@@ -6,3 +6,11 @@ C:\Users\2jdmtec\Desktop\doggo\perrito\perrito\obj\Debug\perrito.csproj.Suggeste
 C:\Users\2jdmtec\Desktop\doggo\perrito\perrito\obj\Debug\perrito.csproj.CoreCompileInputs.cache
 C:\Users\2jdmtec\Desktop\doggo\perrito\perrito\obj\Debug\perrito.exe
 C:\Users\2jdmtec\Desktop\doggo\perrito\perrito\obj\Debug\perrito.pdb
+C:\Users\2jdmtec\Desktop\pojeto-main\perrito\perrito\bin\Debug\perrito.exe.config
+C:\Users\2jdmtec\Desktop\pojeto-main\perrito\perrito\bin\Debug\perrito.exe
+C:\Users\2jdmtec\Desktop\pojeto-main\perrito\perrito\bin\Debug\perrito.pdb
+C:\Users\2jdmtec\Desktop\pojeto-main\perrito\perrito\obj\Debug\perrito.csproj.AssemblyReference.cache
+C:\Users\2jdmtec\Desktop\pojeto-main\perrito\perrito\obj\Debug\perrito.csproj.SuggestedBindingRedirects.cache
+C:\Users\2jdmtec\Desktop\pojeto-main\perrito\perrito\obj\Debug\perrito.csproj.CoreCompileInputs.cache
+C:\Users\2jdmtec\Desktop\pojeto-main\perrito\perrito\obj\Debug\perrito.exe
+C:\Users\2jdmtec\Desktop\pojeto-main\perrito\perrito\obj\Debug\perrito.pdb

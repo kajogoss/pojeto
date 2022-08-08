@@ -50,7 +50,7 @@ namespace perrito
 
 		public string Sexo
 		{
-			get { return sexo; }
+			get{ return sexo; }
             set { sexo = value.ToUpper() == "M" ? "MASCULINO" : "FEMININO"; }
 		}
 
@@ -60,11 +60,11 @@ namespace perrito
 				return (72.7 * altura) - 58;
 			else
 				return (62.1 * altura) - 44.7;
-        }
+;        }
 		public override string ToString()
 		{
-			return (String.Format(" Nome: {0} \n Idade: {1} \n Altura:{2} \n Sexo: {3} \n", 
-									nome, idade, altura, sexo));
+			return (String.Format("Nome: {0} \n Idade: {1} \n Altura: {2} \n Sexo: {3}\n", 
+				                   nome, idade, Altura, sexo));
 
 		}
 	}
